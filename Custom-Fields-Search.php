@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Joindre les postes et les tables postmeta
+ * Joindre les postes et les tables postmeta. Add fonction.php
  */
 
 function metabox_search_join( $join ) {
